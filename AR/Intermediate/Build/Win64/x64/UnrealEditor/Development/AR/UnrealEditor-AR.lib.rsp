@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Unreal/AR/Intermediate/Build/Win64/x64/AREditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Unreal/AR/Intermediate/Build/Win64/x64/UnrealEditor/Development/AR/AR.cpp.obj"
+"C:/Unreal/AR/Intermediate/Build/Win64/x64/UnrealEditor/Development/AR/PerModuleInline.gen.cpp.obj"
+"C:/Unreal/AR/Intermediate/Build/Win64/x64/UnrealEditor/Development/AR/Default.rc2.res"
+/OUT:"C:/Unreal/AR/Intermediate/Build/Win64/x64/UnrealEditor/Development/AR/UnrealEditor-AR.lib"
